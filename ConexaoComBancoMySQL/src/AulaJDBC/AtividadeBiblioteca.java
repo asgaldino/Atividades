@@ -11,7 +11,7 @@ public class AtividadeBiblioteca {
         BancoDados bd = new BancoDados();
 
         // Endereço para conexão ao BD
-        String urlBD = "jdbc:mysql://localhost:3306/Biblioteca2?user=root&password=banco";
+        String urlBD = "jdbc:mysql://localhost:3306/projeto1?user=root&password=senhadobanco1";
 
         // Driver utilizado para acesso ao BD
         String driver = "com.mysql.cj.jdbc.Driver";
